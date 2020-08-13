@@ -5,3 +5,6 @@
 
 - chroma-js (npm i chroma-js)
   JavaScript library for all kinds of color conversions and color scales.
+
+- rc-slider (npm i rc-slider)
+  Slider UI component for React
