@@ -8,3 +8,6 @@
 
 - rc-slider (npm i rc-slider)
   Slider UI component for React
+
+- Material-UI (npm install @material-ui/core)
+  An open-source project that features React components that implement Google's Material Design
